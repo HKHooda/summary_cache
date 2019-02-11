@@ -1,8 +1,8 @@
 Dependencies:
 
-pip2.7 install requests 
-pip2.7 install mmh3
-pip2.7 install bitarray
+1. pip2.7 install requests 
+2. pip2.7 install mmh3
+3. pip2.7 install bitarray
 
 Steps to run and test the code:
 

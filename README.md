@@ -1,4 +1,5 @@
 Summary Cache: 
+
 Objective: Show how a probabilistic data structure like bloom filter can reduce network bandwidth usage. We set up a “distributed proxy” environment where each proxy will maintain some cache. Each proxy will maintain a summary of all other proxies in the form of bloom filters. 
 
 Dependencies:
